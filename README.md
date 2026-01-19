@@ -16,7 +16,6 @@ This repository is a companion to my Medium article:
 👉 **Mastering Grids in Jetpack Compose — The Easy Way**
 🔗 [https://medium.com/@your-username/mastering-grids-in-jetpack-compose](https://medium.com/@supsabhi/lazy-grids-in-jetpack-compose-8a80f52421c9)
 
-*(Replace the link above with your actual Medium article URL)*
 
 The article explains the concepts step-by-step in a beginner-friendly way, while this repo focuses on **hands-on code examples**.
 
